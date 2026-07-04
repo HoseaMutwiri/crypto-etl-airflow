@@ -117,7 +117,7 @@ pipeline_coins
 
 ---
 
-## Sample Output(after select query-use dbeaver to connect to postgres)
+## Sample Output(use DBeaver to connect to postgres)
 
 ![Sample Output](image.png)
 
