@@ -16,10 +16,14 @@ The pipeline is orchestrated using **Apache Airflow** (Astronomer Runtime)
 <td align="left">
 <img src="https://slackmojis.com/emojis/50601-airflow_spin/download" width="100">
 </td>
-<td align = "centre">
-<img src ="https://slackmojis.com/emojis/3035-docker/download" width =80>
-<td align = "centre">
-<img src ="https://slackmojis.com/emojis/8748-partypostgres/download" width =80>
+
+<td align="center">
+<img src="https://slackmojis.com/emojis/3035-docker/download" width="80">
+</td>
+<td align="center">
+<img src="https://slackmojis.com/emojis/8748-partypostgres/download" width="80">
+</td>
+
 <td align="right">
 <img src="https://slackmojis.com/emojis/3438-python/download" width="80">
 </td>
@@ -115,4 +119,5 @@ pipeline_coins
 
 ## Sample Output(after select query-use dbeaver to connect to postgres)
 
-![sample output](image.png)
+![Sample Output](image.png)
+
